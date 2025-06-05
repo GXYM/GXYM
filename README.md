@@ -18,15 +18,13 @@ Here are some ideas to get you started:
 - ![leilei's github stats](https://github-readme-stats.vercel.app/api?username=GXYM&show_icons=true)
 -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=GXYM&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
 
 
 ## Author is GXYM 👋
-<img src="https://github-readme-stats.vercel.app/api?username=GXYM&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
-
 - 🎓 USTB(Ph.D. degree)
 - 📖 [**S.X.Zhang's blog**](https://gxym.github.io/)
 - 🔭 Computer vision(目标检测-OCR)、VLM、AIGC
 - ❤  Program language: Python C++
 
-
-<img src="https://github-profile-trophy.vercel.app/?username=GXYM&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=GXYM&row=1&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />  
