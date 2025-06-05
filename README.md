@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Author is GXYM ✨
 - 🎓 USTB(Ph.D. degree)
-- 📖 [**S.X.Zhang's blog**](https://scholar.google.com/citations?user=N8jMnXEAAAAJ&hl=en)
+- 📖 [**S.X.Zhang's scholar**](https://scholar.google.com/citations?user=N8jMnXEAAAAJ&hl=en)
 - 🔭 Computer vision(目标检测-OCR)、VLM、AIGC
 - ❤  Program language: Python C++
 
