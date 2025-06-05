@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=GXYM&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
 
 
-## Author is GXYM 👋
+## Author is GXYM ✨
 - 🎓 USTB(Ph.D. degree)
 - 📖 [**S.X.Zhang's blog**](https://gxym.github.io/)
 - 🔭 Computer vision(目标检测-OCR)、VLM、AIGC
